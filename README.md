@@ -10,7 +10,7 @@
 
 1. Deploy this application to Netlify and add the link to your Netlify site below:
 
-- [MY LIVE SITE URL]()
+- [https://benevolent-squirrel-503a9c.netlify.app/]
 
 ## Instructions
 
