@@ -10,7 +10,7 @@
 
 1. Deploy this application to Netlify and add the link to your Netlify site below:
 
-- [MY LIVE SITE URL]()
+- ✅CHECK IT OUT✅ -------> [MY LIVE SITE URL](https://jocular-alfajores-8a5742.netlify.app)
 
 ## Instructions
 
