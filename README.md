@@ -7,10 +7,10 @@
 1. Create a new React app.
 
 1. Open up the repository in VSCode. Follow the instructions below to complete the lab.
-
+git 
 1. Deploy this application to Netlify and add the link to your Netlify site below:
 
-- [MY LIVE SITE URL]()
+- [MY LIVE SITE URL](bespoke-bunny-6beff1.netlify.app)
 
 ## Instructions
 
